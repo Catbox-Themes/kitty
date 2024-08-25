@@ -3,15 +3,13 @@ whiskers:
   version: "2.2.0"
   matrix:
     - flavor
-  filename: "themes/{{ flavor.identifier }}.conf"
+  filename: "themes/masala_chai.conf"
 ---
 # vim:ft=kitty
 
-## name:     Catppuccin Kitty {{ flavor.name }}
-## author:   Catppuccin Org
+## name:     CatBox Kitty Masala Chai
 ## license:  MIT
-## upstream: https://github.com/catppuccin/kitty/blob/main/themes/{{ flavor.identifier }}.conf
-## blurb:    Soothing pastel theme for the high-spirited!
+## upstream: https://github.com/Catbox-Themes/kitty/blob/main/themes/masala_chai.conf
 
 
 
